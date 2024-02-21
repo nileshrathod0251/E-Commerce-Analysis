@@ -14,7 +14,7 @@ _ Key Features:_
 
 _ Data Insights:_
 Uncover valuable insights through dynamic visuals and interactive reports, empowering decision-makers with data-driven strategies.
-  _Key KPI,s:_
+  _Key KPI'S:_
 1. Weekday vs Weekend Sales.
 2. Number of Orders with review score 5 and payment type as credit card.
 3. Average number of days taken for order delivery for pet shop.
